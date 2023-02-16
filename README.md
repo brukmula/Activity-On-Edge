@@ -1,3 +1,2 @@
 # Activity-On-Edge
-This program makes use of a network or weighted directed graph abstract data type to represent the  inter-dependencies among activities in a project. Once the is represented as a graph, it can be analyzed to determine if the project is feasibility, how long the project will take, and what activities are “critical” 
-meaning that if they are not completed in time the entire project is delayed
+This program utilizes a network or weighted directed graph abstract data type to represent the interdependencies among activities in a project. Once the project is represented as a graph, it can be analyzed to determine feasibility, project duration, and critical activities. Critical activities refer to those that, if not completed on time, will cause delays in the entire project.
